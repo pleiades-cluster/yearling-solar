@@ -1,0 +1,10 @@
+### Module positions - created on 03/31/22 21:06:37 ###
+### Printed by Pcbnew version kicad (5.1.10)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                 PosX       PosY       Rot  Side
+C1        C             C_0603_1608Metric   125.7500  -143.2250   90.0000  top
+D1        CDBA240LL-HF  DO-214AC            142.7500  -143.2500    0.0000  top
+R1        ALS-PT19      R_0603_1608Metric   123.2500  -143.1750  270.0000  top
+R2        R             R_0603_1608Metric   128.2500  -143.1750   90.0000  top
+## End
