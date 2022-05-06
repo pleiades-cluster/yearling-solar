@@ -1,0 +1,25 @@
+Drill report for C:/Users/amand/Documents/KiCad/2s3pShortArraySV4/solar-panel-side-Z.kicad_pcb
+Created on 5/6/2022 1:20:24 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'solar-panel-side-Z-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (14 holes)
+    T2  2.000mm  0.0787"  (12 holes)
+
+    Total plated holes count 26
+
+
+Drill file 'solar-panel-side-Z-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

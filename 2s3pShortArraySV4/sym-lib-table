@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name solar-panel-side-XY-rescue)(type Legacy)(uri ${KIPRJMOD}/solar-panel-side-XY-rescue.lib)(options "")(descr ""))
+  (lib (name solar-panel-side+XY-rescue)(type Legacy)(uri ${KIPRJMOD}/solar-panel-side+XY-rescue.lib)(options "")(descr ""))
+  (lib (name solar-panel-side-Z-rescue)(type Legacy)(uri ${KIPRJMOD}/solar-panel-side-Z-rescue.lib)(options "")(descr ""))
+)
