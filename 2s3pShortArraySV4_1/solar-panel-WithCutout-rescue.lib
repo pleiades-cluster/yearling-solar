@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# APDS9960_Breakout-ExtraComponents-solar-panel-side+XY-rescue
+#
+DEF APDS9960_Breakout-ExtraComponents-solar-panel-side+XY-rescue U 0 20 Y Y 1 F N
+F0 "U" -300 350 50 H V L CNN
+F1 "APDS9960_Breakout-ExtraComponents-solar-panel-side+XY-rescue" 50 350 50 H V L CNN
+F2 "" -100 450 50 H I C CNN
+F3 "" -300 350 50 H I C CNN
+$FPLIST
+ Broadcom*APDS*9301*
+$ENDFPLIST
+DRAW
+S -300 300 300 -300 0 1 10 f
+X VDD 1 0 400 100 D 50 50 1 1 W
+X MOUNT4 10 400 -250 100 L 50 50 1 1 I
+X 3V3 2 -100 400 100 D 50 50 1 1 W
+X GND 3 -100 -400 100 U 50 50 1 1 W
+X SCL 4 -400 0 100 R 50 50 1 1 I
+X SDA 5 -400 -100 100 R 50 50 1 1 B
+X INT 6 -400 100 100 R 50 50 1 1 C
+X MOUNT1 7 400 50 100 L 50 50 1 1 P
+X MOUNT2 8 400 -50 100 L 50 50 1 1 I
+X MOUNT3 9 400 -150 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
