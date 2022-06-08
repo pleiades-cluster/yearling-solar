@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP APDS9960_Breakout
+D ambient light sensor, i2c interface, 2.7-3.6V
+K ambient light sensor i2c
+F https://docs.broadcom.com/docs/AV02-2315EN
+$ENDCMP
+#
+$CMP BNO080_Breakout
+D Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10
+K haptic driver i2c
+F http://www.ti.com/lit/ds/symlink/drv2605l.pdf
+$ENDCMP
+#
+$CMP DRV2605L_Breakout
+D Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10
+K haptic driver i2c
+F http://www.ti.com/lit/ds/symlink/drv2605l.pdf
+$ENDCMP
+#
+$CMP MCP9601_Breakout
+D Haptic driver for LRAs and ERMs with effect library, 2-5.2V, VSSOP-10
+K haptic driver i2c
+F http://www.ti.com/lit/ds/symlink/drv2605l.pdf
+$ENDCMP
+#
+$CMP MCP9808_Breakout
+D +/-0.25C (+/-1C) Typical (Maximum), Digital Temperature Sensor, DFN-8
+K temperature sensor I2C
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22203b.pdf
+$ENDCMP
+#
+$CMP MCP9808_DFN
+D +/-0.25C (+/-0.5C) Typical (Maximum), Digital Temperature Sensor, DFN-8
+K temperature sensor I2C
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MCP9808-0.5C-Maximum-Accuracy-Digital-Temperature-Sensor-Data-Sheet-DS20005095B.pdf
+$ENDCMP
+#
+#End Doc Library
