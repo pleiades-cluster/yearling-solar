@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "SolarPanelBoards")(type "KiCad")(uri "${KIPRJMOD}/SolarPanelBoards.pretty")(options "")(descr ""))
+  (lib (name "VEML7700-TT")(type "KiCad")(uri "${KIPRJMOD}/Extras/VEML7700-TT")(options "")(descr ""))
 )
