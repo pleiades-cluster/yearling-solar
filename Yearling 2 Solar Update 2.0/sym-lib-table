@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "solar-panel-NoCutout-rescue")(type "Legacy")(uri "${KIPRJMOD}/solar-panel-NoCutout-rescue.lib")(options "")(descr ""))
+  (lib (name "solar-panel-WithCutout-rescue")(type "Legacy")(uri "${KIPRJMOD}/solar-panel-WithCutout-rescue.lib")(options "")(descr ""))
+  (lib (name "solar-panel-side-Z-rescue")(type "Legacy")(uri "${KIPRJMOD}/solar-panel-side-Z-rescue.lib")(options "")(descr ""))
+  (lib (name "Y2BoardComponents")(type "KiCad")(uri "${KIPRJMOD}/Y2BoardComponents.kicad_sym")(options "")(descr ""))
+)

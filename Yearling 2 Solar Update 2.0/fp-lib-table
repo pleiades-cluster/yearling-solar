@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "SolarPanelBoards")(type "KiCad")(uri "${KIPRJMOD}/SolarPanelBoards.pretty")(options "")(descr ""))
+)
