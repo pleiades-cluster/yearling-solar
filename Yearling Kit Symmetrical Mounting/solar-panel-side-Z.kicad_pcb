@@ -468,6 +468,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
+    (model "C:/Users/bronc/Downloads/solar_cell.step"
+      (offset (xyz -3.3 -0.6 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "SolarPanelBoards:Test Pad" (layer "F.Cu")
@@ -542,6 +547,11 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
+    )
+    (model "C:/Users/bronc/Downloads/solar_cell.step"
+      (offset (xyz -3.3 -0.6 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
     )
   )
 
@@ -863,6 +873,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
+    (model "C:/Users/bronc/Downloads/solar_cell.step"
+      (offset (xyz -3.3 -0.6 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "SolarPanelBoards:KXOB101K08F-TR" (layer "F.Cu")
@@ -919,6 +934,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
+    (model "C:/Users/bronc/Downloads/solar_cell.step"
+      (offset (xyz -3.3 -0.6 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "SolarPanelBoards:KXOB101K08F-TR" (layer "F.Cu")
@@ -974,6 +994,11 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
+    )
+    (model "C:/Users/bronc/Downloads/solar_cell.step"
+      (offset (xyz -3.3 -0.75 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
     )
   )
 
@@ -1067,6 +1092,11 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
+    )
+    (model "C:/Users/bronc/Downloads/solar_cell.step"
+      (offset (xyz -3.3 -0.6 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
     )
   )
 
